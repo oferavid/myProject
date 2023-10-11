@@ -3,6 +3,6 @@
 def main(msg):
     print(msg)
 
-main("Hello Friends")
+main("Hello Friends this is my pi2 directory main.py file")
 
 
