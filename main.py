@@ -7,6 +7,9 @@ def main(msg):
 def secondary():
     print("This is a new function")
 
+def thirdFunc()
+    print ("This relevant to vo2 branch")
+
 main("Hello Friends this is my pi2 directory main.py file")
 
 
